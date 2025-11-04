@@ -2,7 +2,7 @@
 # ZENER DIODE CHARACTERISTICS AND ZENER AS VOLTAGE REGULATOR
 
 # AIM
-. To find the Zener Break down voltage regulation condition.
+To find the Zener Break down voltage regulation condition.
 
 # APPARATUS:
 
@@ -38,6 +38,7 @@ A zener diode is heavily doped p-n junction diode, specially made to operate in 
 ## LOAD REGULATION
 
 <img width="1920" height="1200" alt="Screenshot (453)" src="https://github.com/user-attachments/assets/184f652d-66eb-47f5-a6d9-15925611ad93" />
+
 # PRECAUTIONS:
 
 1. While doing the experiment do not exceed the ratings of the zener diode. This may lead to damage the diode.
